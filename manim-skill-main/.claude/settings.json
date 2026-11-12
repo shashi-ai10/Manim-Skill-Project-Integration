@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__nexus-video-production__create_educational_video",
+      "mcp__nexus-video-production__get_video_status",
+      "mcp__nexus-video-production__get_video_outputs",
+      "mcp__nexus-video-production__ping"
+    ]
+  }
+}
+

@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "nexus-video-production": {
+      "command": "python",
+      "args": [
+        "-m",
+        "nexus_agent.mcp_server"
+      ],
+      "env": {
+        "PYTHONIOENCODING": "utf-8"
+      }
+    }
+  }
+}

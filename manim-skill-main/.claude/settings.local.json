@@ -1,0 +1,10 @@
+{
+  "enabledMcpjsonServers": [
+    "nexus-video-production"
+  ],
+  "permissions": {
+    "allow": [
+      "PowerShell(manim *)"
+    ]
+  }
+}
