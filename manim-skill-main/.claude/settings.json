@@ -6,6 +6,13 @@
       "mcp__nexus-video-production__get_video_outputs",
       "mcp__nexus-video-production__ping"
     ]
+  },
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://nexusapi.navigatelabs.ai",
+    "ANTHROPIC_API_KEY": "Your_API_key",
+    "ANTHROPIC_MODEL": "claude-haiku-4-5",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "claude-haiku-4-5",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "claude-haiku-4-5",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "claude-haiku-4-5"
   }
 }
-
